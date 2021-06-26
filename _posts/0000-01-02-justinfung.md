@@ -2,6 +2,6 @@
 ---
 layout: slide
 title: “Welcome to our second slide!”
----
+"Stay Foolish Stay hungry" - Steve Job
 Your test
 Use the left arrow to go back!
